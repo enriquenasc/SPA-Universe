@@ -21,7 +21,7 @@ A ideia agora é criar o **SPA Universe**! 🚀
 
 Aqui está o [**link**](https://www.figma.com/file/m8zp3mtxvwyTGQs69nIFM8/%5BDesafios-Explorer%5D-SPA-Universe/duplicate) com o layout da aplicação. Ele abrirá um arquivo igual a imagem abaixo:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c547771-41e4-4e21-9b71-241fe1387cf6/Untitled.png)
+![Untitled (1)](https://github.com/enriquenasc/SPA-Universe/assets/56658021/ac799ed4-3c33-4ddd-9dc1-0509c9ad72c9)
 
 A ideia aqui é você utilizar todos os conceitos aprendidos em aula em uma aplicação visualmente mais bonita. Irado, né? 😛 
 
